@@ -1,8 +1,12 @@
 # Clash Of Clans Hack Tool with Online Generator
+
 Website: 
 http://clash-razor-hack.g3t.org/
+
 Clash of Clans hack tool generator for gems, coins and elixir, coc Tool.
-How to hack clash of clans? It was simple for me, read the text below and it will be simple for you too
+
+How to hack clash of clans? It was simple for me, read the text below and it will be simple for you too!
+
 Hi, today I want to present you my own creation.After two months of work we finally found a way to exploit and Hack Clash of Clans bugs in order to create a online tool( http://clash-razor-hack.g3t.org/ ) it's a generator for Clash of Clans which will give you an unlimited amount of gems, coins and elixir.
 
 ##CoC Hack Tool Explanation
